@@ -1,0 +1,40 @@
+{
+  "exchange_rates": [
+    {
+      "date": "2023-10-01",
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "exchange_rate": 0.85
+    },
+    {
+      "date": "2023-10-02",
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "exchange_rate": 0.855
+    },
+    {
+      "date": "2023-10-03",
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "exchange_rate": 0.86
+    },
+    {
+      "date": "2023-10-04",
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "exchange_rate": 0.8555
+    },
+    {
+      "date": "2023-10-05",
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "exchange_rate": 0.865
+    },
+    {
+      "date": "2023-10-06",
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "exchange_rate": 0.87
+    }
+  ]
+}

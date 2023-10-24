@@ -1,0 +1,11 @@
+{
+  "name": "exchango",
+  "version": "1.0.0",
+  "description": "Simple Website to practice Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Abdulrahman Ismael",
+  "license": "ISC"
+}
